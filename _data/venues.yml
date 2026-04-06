@@ -7,3 +7,18 @@
 
 "Vision":
   color: "#009f36"
+
+"Journal":
+  color: "#4E79A7"
+
+"Conference":
+  color: "#F28E2B"
+
+"Conference Short Paper":
+  color: "#76B7B2"
+
+"Workshop":
+  color: "#59A14F"
+
+"Poster":
+  color: "#EDC948"
