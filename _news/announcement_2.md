@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be participating CHI 2026@Barcelona and also PacificVis2026@Sydney!
+I will be attending CHI 2026 in Barcelona and PacificVis2026 in Sydney!

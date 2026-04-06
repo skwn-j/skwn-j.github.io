@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my collaborative research in CMU DIG!
+I started my collaborative research at CMU DIG!
