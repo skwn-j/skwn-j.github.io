@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://skwn-j.github.io/skwn-j.github.io//sitemap.xml
+Sitemap: https://skwn-j.github.io/sitemap.xml
