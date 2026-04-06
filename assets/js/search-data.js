@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-started-my-collaborative-research-in-cmu-dig",
-          title: 'I started my collaborative research in CMU DIG!',
+            },},{id: "news-i-started-my-collaborative-research-at-cmu-dig",
+          title: 'I started my collaborative research at CMU DIG!',
           description: "",
-          section: "News",},{id: "news-i-will-be-participating-chi-2026-barcelona-and-also-pacificvis2026-sydney",
-          title: 'I will be participating CHI 2026@Barcelona and also PacificVis2026@Sydney!',
+          section: "News",},{id: "news-i-will-be-attending-chi-2026-in-barcelona-and-pacificvis2026-in-sydney",
+          title: 'I will be attending CHI 2026 in Barcelona and PacificVis2026 in Sydney!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
