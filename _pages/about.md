@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
+    <p> Newell-Simon Hall A408 </p>
     <p>4804 Forbes Ave.</p>
     <p>Pittsburgh, PA 15213</p>
 
