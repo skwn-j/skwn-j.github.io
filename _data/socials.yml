@@ -17,7 +17,4 @@ scholar_userid: iKEZJFgAAAAJ
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: /assets/img/linkedin-brands-solid-full.svg
-  title: LinkedIn
-  url: https://www.linkedin.com/in/seokweon-jung-45613b363/
+linkedin_username: seokweon-jung-45613b363
