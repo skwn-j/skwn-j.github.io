@@ -34,25 +34,25 @@
     url: https://en.wikipedia.org/wiki/Max_Planck
 
 "krchoe":
-  - firstname: ["Kiroong", "K.", "K. Choe", "Kiroong Choe"]
+  - firstname: ["Kiroong", "K.", "K. Choe", "Kiroong Choe", "Choe, Kiroong"]
     url: https://kiroong.com/
 
 "hj":
-  - firstname: ["Hyeon", "H.", "H. Jeon", "Hyeon Jeon"]
+  - firstname: ["Hyeon", "H.", "H. Jeon", "Hyeon Jeon", "Jeon, Hyeon"]
     url: https://www.hyeonjeon.com/
 
 "shpark":
-  - firstname: ["Seokhyeon", "S.", "S. Park", "Seokhyeon Park"]
+  - firstname: ["Seokhyeon", "S.", "S. Park", "Seokhyeon Park", "Park, Seokhyeon"]
     url: https://www.seokhyeon.com/
 
 "jseo":
-  - firstname: ["Jinwook", "J.", "J. Seo", "Jinwook Seo"]
+  - firstname: ["Jinwook", "J.", "J. Seo", "Jinwook Seo", "Seo, Jinwook"]
     url: https://hcil.snu.ac.kr/people/jinwook-seo
 
 "ymsong":
-  - firstname: ["Yumin", "Y.", "Y. Song", "Yumin Song"]
+  - firstname: ["Yumin", "Y.", "Y. Song", "Yumin Song", "Song, Yumin"]
     url: https://yuminsong.com/
 
 "jwsong":
-  - firstname: ["Jiwon", "J.", "J. Song", "Jiwon Song"]
+  - firstname: ["Jiwon", "J.", "J. Song", "Jiwon Song", "Song, Jiwon"]
     url: https://hcil.snu.ac.kr/people/jiwon-song
