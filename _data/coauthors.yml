@@ -33,26 +33,24 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"kiroong":
+"choe":
   - firstname: ["Kiroong", "K.", "K. Choe", "Kiroong Choe", "Choe, Kiroong"]
     url: https://kiroong.com/
 
-"hyeon":
+"jeon":
   - firstname: ["Hyeon", "H.", "H. Jeon", "Hyeon Jeon", "Jeon, Hyeon"]
     url: https://www.hyeonjeon.com/
 
-"seokhyeon":
+"park":
   - firstname: ["Seokhyeon", "S.", "S. Park", "Seokhyeon Park", "Park, Seokhyeon"]
     url: https://www.seokhyeon.com/
 
-"jinwook":
+"seo":
   - firstname: ["Jinwook", "J.", "J. Seo", "Jinwook Seo", "Seo, Jinwook"]
     url: https://hcil.snu.ac.kr/people/jinwook-seo
 
-"yumin":
+"song":
   - firstname: ["Yumin", "Y.", "Y. Song", "Yumin Song", "Song, Yumin"]
     url: https://yuminsong.com/
-
-"jiwon":
   - firstname: ["Jiwon", "J.", "J. Song", "Jiwon Song", "Song, Jiwon"]
     url: https://hcil.snu.ac.kr/people/jiwon-song
