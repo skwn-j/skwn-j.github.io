@@ -397,8 +397,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-attending-chi-2026-in-barcelona-and-pacificvis2026-in-sydney",
           title: 'I will be attending CHI 2026 in Barcelona and PacificVis2026 in Sydney!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-visual-analytics-of-dynamic-graph-data",
+          title: 'Visual Analytics of Dynamic Graph Data',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
