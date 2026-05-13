@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Visual Analytics of Dynamic Graph Data
 description: with background image
 img: assets/img/12.jpg
 importance: 1
