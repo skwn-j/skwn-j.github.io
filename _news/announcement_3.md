@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am on the academic job market and seeking a tenure-track faculty position worldwide, starting in March to September 2027. Please feel free to contact me at seokweoj@andrew.cmu.edu.
+I am on the academic job market and seeking a tenure-track faculty position worldwide, starting in 2027. Please feel free to contact me at seokweoj@andrew.cmu.edu.
